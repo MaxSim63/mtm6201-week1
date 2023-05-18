@@ -1,0 +1,52 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: white;
+    background-color: darkblue;
+    font-weight: 200;
+}
+
+h1 {
+    background-color: tan;
+}
+
+.site-title {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#my-image {
+    max-width: 150px;
+    float: left;
+    margin-right: 15px;
+}
+
+.wrapper {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+dt {
+    font-size: 1.15rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 1%;
+    font-weight: bold;
+}
+
+dd {
+    font-weight: bold;
+    font-size: 1.15rem;
+    margin-left: 1%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+.description-list {
+    background-color: tan;
+    margin-top: 1%;
+}
+
+.site-footer {
+    font-size: 10px;
+    margin-top: 15%;
+}
